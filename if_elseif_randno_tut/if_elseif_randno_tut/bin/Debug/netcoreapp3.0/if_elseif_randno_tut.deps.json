@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {
+      "if_elseif_randno_tut/1.0.0": {
+        "runtime": {
+          "if_elseif_randno_tut.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "if_elseif_randno_tut/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
