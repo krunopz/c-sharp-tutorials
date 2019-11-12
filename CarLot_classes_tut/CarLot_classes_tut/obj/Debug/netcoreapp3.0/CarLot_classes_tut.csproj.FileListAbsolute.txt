@@ -1,0 +1,11 @@
+C:\Users\Korisnik\Documents\GitHub\c#-tutorial\c-sharp-tutorials\CarLot_classes_tut\CarLot_classes_tut\obj\Debug\netcoreapp3.0\CarLot_classes_tut.csprojAssemblyReference.cache
+C:\Users\Korisnik\Documents\GitHub\c#-tutorial\c-sharp-tutorials\CarLot_classes_tut\CarLot_classes_tut\obj\Debug\netcoreapp3.0\CarLot_classes_tut.AssemblyInfoInputs.cache
+C:\Users\Korisnik\Documents\GitHub\c#-tutorial\c-sharp-tutorials\CarLot_classes_tut\CarLot_classes_tut\obj\Debug\netcoreapp3.0\CarLot_classes_tut.AssemblyInfo.cs
+C:\Users\Korisnik\Documents\GitHub\c#-tutorial\c-sharp-tutorials\CarLot_classes_tut\CarLot_classes_tut\bin\Debug\netcoreapp3.0\CarLot_classes_tut.exe
+C:\Users\Korisnik\Documents\GitHub\c#-tutorial\c-sharp-tutorials\CarLot_classes_tut\CarLot_classes_tut\bin\Debug\netcoreapp3.0\CarLot_classes_tut.deps.json
+C:\Users\Korisnik\Documents\GitHub\c#-tutorial\c-sharp-tutorials\CarLot_classes_tut\CarLot_classes_tut\bin\Debug\netcoreapp3.0\CarLot_classes_tut.runtimeconfig.json
+C:\Users\Korisnik\Documents\GitHub\c#-tutorial\c-sharp-tutorials\CarLot_classes_tut\CarLot_classes_tut\bin\Debug\netcoreapp3.0\CarLot_classes_tut.runtimeconfig.dev.json
+C:\Users\Korisnik\Documents\GitHub\c#-tutorial\c-sharp-tutorials\CarLot_classes_tut\CarLot_classes_tut\bin\Debug\netcoreapp3.0\CarLot_classes_tut.dll
+C:\Users\Korisnik\Documents\GitHub\c#-tutorial\c-sharp-tutorials\CarLot_classes_tut\CarLot_classes_tut\bin\Debug\netcoreapp3.0\CarLot_classes_tut.pdb
+C:\Users\Korisnik\Documents\GitHub\c#-tutorial\c-sharp-tutorials\CarLot_classes_tut\CarLot_classes_tut\obj\Debug\netcoreapp3.0\CarLot_classes_tut.dll
+C:\Users\Korisnik\Documents\GitHub\c#-tutorial\c-sharp-tutorials\CarLot_classes_tut\CarLot_classes_tut\obj\Debug\netcoreapp3.0\CarLot_classes_tut.pdb
