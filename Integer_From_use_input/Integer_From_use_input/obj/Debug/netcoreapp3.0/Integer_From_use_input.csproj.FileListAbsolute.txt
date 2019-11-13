@@ -1,0 +1,11 @@
+C:\Users\Korisnik\Documents\GitHub\c#-tutorial\c-sharp-tutorials\Integer_From_use_input\Integer_From_use_input\obj\Debug\netcoreapp3.0\Integer_From_use_input.csprojAssemblyReference.cache
+C:\Users\Korisnik\Documents\GitHub\c#-tutorial\c-sharp-tutorials\Integer_From_use_input\Integer_From_use_input\obj\Debug\netcoreapp3.0\Integer_From_use_input.AssemblyInfoInputs.cache
+C:\Users\Korisnik\Documents\GitHub\c#-tutorial\c-sharp-tutorials\Integer_From_use_input\Integer_From_use_input\obj\Debug\netcoreapp3.0\Integer_From_use_input.AssemblyInfo.cs
+C:\Users\Korisnik\Documents\GitHub\c#-tutorial\c-sharp-tutorials\Integer_From_use_input\Integer_From_use_input\bin\Debug\netcoreapp3.0\Integer_From_use_input.exe
+C:\Users\Korisnik\Documents\GitHub\c#-tutorial\c-sharp-tutorials\Integer_From_use_input\Integer_From_use_input\bin\Debug\netcoreapp3.0\Integer_From_use_input.deps.json
+C:\Users\Korisnik\Documents\GitHub\c#-tutorial\c-sharp-tutorials\Integer_From_use_input\Integer_From_use_input\bin\Debug\netcoreapp3.0\Integer_From_use_input.runtimeconfig.json
+C:\Users\Korisnik\Documents\GitHub\c#-tutorial\c-sharp-tutorials\Integer_From_use_input\Integer_From_use_input\bin\Debug\netcoreapp3.0\Integer_From_use_input.runtimeconfig.dev.json
+C:\Users\Korisnik\Documents\GitHub\c#-tutorial\c-sharp-tutorials\Integer_From_use_input\Integer_From_use_input\bin\Debug\netcoreapp3.0\Integer_From_use_input.dll
+C:\Users\Korisnik\Documents\GitHub\c#-tutorial\c-sharp-tutorials\Integer_From_use_input\Integer_From_use_input\bin\Debug\netcoreapp3.0\Integer_From_use_input.pdb
+C:\Users\Korisnik\Documents\GitHub\c#-tutorial\c-sharp-tutorials\Integer_From_use_input\Integer_From_use_input\obj\Debug\netcoreapp3.0\Integer_From_use_input.dll
+C:\Users\Korisnik\Documents\GitHub\c#-tutorial\c-sharp-tutorials\Integer_From_use_input\Integer_From_use_input\obj\Debug\netcoreapp3.0\Integer_From_use_input.pdb

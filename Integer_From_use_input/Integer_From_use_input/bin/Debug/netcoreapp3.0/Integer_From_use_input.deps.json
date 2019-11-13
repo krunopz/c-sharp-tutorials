@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {
+      "Integer_From_use_input/1.0.0": {
+        "runtime": {
+          "Integer_From_use_input.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Integer_From_use_input/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
