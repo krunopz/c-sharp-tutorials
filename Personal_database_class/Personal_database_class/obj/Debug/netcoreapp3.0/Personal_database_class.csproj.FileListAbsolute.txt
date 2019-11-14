@@ -1,0 +1,11 @@
+C:\Users\Korisnik\Documents\GitHub\c#-tutorial\c-sharp-tutorials\Personal_database_class\Personal_database_class\bin\Debug\netcoreapp3.0\Personal_database_class.exe
+C:\Users\Korisnik\Documents\GitHub\c#-tutorial\c-sharp-tutorials\Personal_database_class\Personal_database_class\bin\Debug\netcoreapp3.0\Personal_database_class.deps.json
+C:\Users\Korisnik\Documents\GitHub\c#-tutorial\c-sharp-tutorials\Personal_database_class\Personal_database_class\bin\Debug\netcoreapp3.0\Personal_database_class.runtimeconfig.json
+C:\Users\Korisnik\Documents\GitHub\c#-tutorial\c-sharp-tutorials\Personal_database_class\Personal_database_class\bin\Debug\netcoreapp3.0\Personal_database_class.runtimeconfig.dev.json
+C:\Users\Korisnik\Documents\GitHub\c#-tutorial\c-sharp-tutorials\Personal_database_class\Personal_database_class\bin\Debug\netcoreapp3.0\Personal_database_class.dll
+C:\Users\Korisnik\Documents\GitHub\c#-tutorial\c-sharp-tutorials\Personal_database_class\Personal_database_class\bin\Debug\netcoreapp3.0\Personal_database_class.pdb
+C:\Users\Korisnik\Documents\GitHub\c#-tutorial\c-sharp-tutorials\Personal_database_class\Personal_database_class\obj\Debug\netcoreapp3.0\Personal_database_class.csprojAssemblyReference.cache
+C:\Users\Korisnik\Documents\GitHub\c#-tutorial\c-sharp-tutorials\Personal_database_class\Personal_database_class\obj\Debug\netcoreapp3.0\Personal_database_class.AssemblyInfoInputs.cache
+C:\Users\Korisnik\Documents\GitHub\c#-tutorial\c-sharp-tutorials\Personal_database_class\Personal_database_class\obj\Debug\netcoreapp3.0\Personal_database_class.AssemblyInfo.cs
+C:\Users\Korisnik\Documents\GitHub\c#-tutorial\c-sharp-tutorials\Personal_database_class\Personal_database_class\obj\Debug\netcoreapp3.0\Personal_database_class.dll
+C:\Users\Korisnik\Documents\GitHub\c#-tutorial\c-sharp-tutorials\Personal_database_class\Personal_database_class\obj\Debug\netcoreapp3.0\Personal_database_class.pdb
