@@ -1,0 +1,11 @@
+C:\Users\Korisnik\Documents\GitHub\c#-tutorial\c-sharp-tutorials\Rollong_dice_game\Rollong_dice_game\bin\Debug\netcoreapp3.0\Rollong_dice_game.exe
+C:\Users\Korisnik\Documents\GitHub\c#-tutorial\c-sharp-tutorials\Rollong_dice_game\Rollong_dice_game\bin\Debug\netcoreapp3.0\Rollong_dice_game.deps.json
+C:\Users\Korisnik\Documents\GitHub\c#-tutorial\c-sharp-tutorials\Rollong_dice_game\Rollong_dice_game\bin\Debug\netcoreapp3.0\Rollong_dice_game.runtimeconfig.json
+C:\Users\Korisnik\Documents\GitHub\c#-tutorial\c-sharp-tutorials\Rollong_dice_game\Rollong_dice_game\bin\Debug\netcoreapp3.0\Rollong_dice_game.runtimeconfig.dev.json
+C:\Users\Korisnik\Documents\GitHub\c#-tutorial\c-sharp-tutorials\Rollong_dice_game\Rollong_dice_game\bin\Debug\netcoreapp3.0\Rollong_dice_game.dll
+C:\Users\Korisnik\Documents\GitHub\c#-tutorial\c-sharp-tutorials\Rollong_dice_game\Rollong_dice_game\bin\Debug\netcoreapp3.0\Rollong_dice_game.pdb
+C:\Users\Korisnik\Documents\GitHub\c#-tutorial\c-sharp-tutorials\Rollong_dice_game\Rollong_dice_game\obj\Debug\netcoreapp3.0\Rollong_dice_game.csprojAssemblyReference.cache
+C:\Users\Korisnik\Documents\GitHub\c#-tutorial\c-sharp-tutorials\Rollong_dice_game\Rollong_dice_game\obj\Debug\netcoreapp3.0\Rollong_dice_game.AssemblyInfoInputs.cache
+C:\Users\Korisnik\Documents\GitHub\c#-tutorial\c-sharp-tutorials\Rollong_dice_game\Rollong_dice_game\obj\Debug\netcoreapp3.0\Rollong_dice_game.AssemblyInfo.cs
+C:\Users\Korisnik\Documents\GitHub\c#-tutorial\c-sharp-tutorials\Rollong_dice_game\Rollong_dice_game\obj\Debug\netcoreapp3.0\Rollong_dice_game.dll
+C:\Users\Korisnik\Documents\GitHub\c#-tutorial\c-sharp-tutorials\Rollong_dice_game\Rollong_dice_game\obj\Debug\netcoreapp3.0\Rollong_dice_game.pdb

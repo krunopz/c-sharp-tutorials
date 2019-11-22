@@ -1,0 +1,10 @@
+C:\Users\Korisnik\Documents\GitHub\c#-tutorial\c-sharp-tutorials\Subscription_renewal\Subscription_renewal\bin\Debug\netcoreapp3.0\Subscription_renewal.exe
+C:\Users\Korisnik\Documents\GitHub\c#-tutorial\c-sharp-tutorials\Subscription_renewal\Subscription_renewal\bin\Debug\netcoreapp3.0\Subscription_renewal.deps.json
+C:\Users\Korisnik\Documents\GitHub\c#-tutorial\c-sharp-tutorials\Subscription_renewal\Subscription_renewal\bin\Debug\netcoreapp3.0\Subscription_renewal.runtimeconfig.json
+C:\Users\Korisnik\Documents\GitHub\c#-tutorial\c-sharp-tutorials\Subscription_renewal\Subscription_renewal\bin\Debug\netcoreapp3.0\Subscription_renewal.runtimeconfig.dev.json
+C:\Users\Korisnik\Documents\GitHub\c#-tutorial\c-sharp-tutorials\Subscription_renewal\Subscription_renewal\bin\Debug\netcoreapp3.0\Subscription_renewal.dll
+C:\Users\Korisnik\Documents\GitHub\c#-tutorial\c-sharp-tutorials\Subscription_renewal\Subscription_renewal\bin\Debug\netcoreapp3.0\Subscription_renewal.pdb
+C:\Users\Korisnik\Documents\GitHub\c#-tutorial\c-sharp-tutorials\Subscription_renewal\Subscription_renewal\obj\Debug\netcoreapp3.0\Subscription_renewal.AssemblyInfoInputs.cache
+C:\Users\Korisnik\Documents\GitHub\c#-tutorial\c-sharp-tutorials\Subscription_renewal\Subscription_renewal\obj\Debug\netcoreapp3.0\Subscription_renewal.AssemblyInfo.cs
+C:\Users\Korisnik\Documents\GitHub\c#-tutorial\c-sharp-tutorials\Subscription_renewal\Subscription_renewal\obj\Debug\netcoreapp3.0\Subscription_renewal.dll
+C:\Users\Korisnik\Documents\GitHub\c#-tutorial\c-sharp-tutorials\Subscription_renewal\Subscription_renewal\obj\Debug\netcoreapp3.0\Subscription_renewal.pdb
