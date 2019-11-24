@@ -1,0 +1,11 @@
+C:\Users\Korisnik\Documents\GitHub\c#-tutorial\c-sharp-tutorials\Array_basics\Array_basics\obj\Debug\netcoreapp3.0\Array_basics.csprojAssemblyReference.cache
+C:\Users\Korisnik\Documents\GitHub\c#-tutorial\c-sharp-tutorials\Array_basics\Array_basics\obj\Debug\netcoreapp3.0\Array_basics.AssemblyInfoInputs.cache
+C:\Users\Korisnik\Documents\GitHub\c#-tutorial\c-sharp-tutorials\Array_basics\Array_basics\obj\Debug\netcoreapp3.0\Array_basics.AssemblyInfo.cs
+C:\Users\Korisnik\Documents\GitHub\c#-tutorial\c-sharp-tutorials\Array_basics\Array_basics\bin\Debug\netcoreapp3.0\Array_basics.exe
+C:\Users\Korisnik\Documents\GitHub\c#-tutorial\c-sharp-tutorials\Array_basics\Array_basics\bin\Debug\netcoreapp3.0\Array_basics.deps.json
+C:\Users\Korisnik\Documents\GitHub\c#-tutorial\c-sharp-tutorials\Array_basics\Array_basics\bin\Debug\netcoreapp3.0\Array_basics.runtimeconfig.json
+C:\Users\Korisnik\Documents\GitHub\c#-tutorial\c-sharp-tutorials\Array_basics\Array_basics\bin\Debug\netcoreapp3.0\Array_basics.runtimeconfig.dev.json
+C:\Users\Korisnik\Documents\GitHub\c#-tutorial\c-sharp-tutorials\Array_basics\Array_basics\bin\Debug\netcoreapp3.0\Array_basics.dll
+C:\Users\Korisnik\Documents\GitHub\c#-tutorial\c-sharp-tutorials\Array_basics\Array_basics\bin\Debug\netcoreapp3.0\Array_basics.pdb
+C:\Users\Korisnik\Documents\GitHub\c#-tutorial\c-sharp-tutorials\Array_basics\Array_basics\obj\Debug\netcoreapp3.0\Array_basics.dll
+C:\Users\Korisnik\Documents\GitHub\c#-tutorial\c-sharp-tutorials\Array_basics\Array_basics\obj\Debug\netcoreapp3.0\Array_basics.pdb
