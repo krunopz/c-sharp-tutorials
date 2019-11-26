@@ -35,6 +35,19 @@ namespace Array_basics
 
             Console.WriteLine($"The number of fraudulent orders is: {fraudulentOrderIDs.Length} \n");
 
+            Console.WriteLine("Check existing list of fraudulent ID's: \n 1. By starting letter \n 2. By ID \n");
+            string choice = Console.ReadLine();
+        CHOOSE:
+            if (choice == "1")
+                goto BYLETTER;
+            else if (choice == "2")
+                goto BYID;
+            else
+            {
+                Console.WriteLine("You made a mistake. Retype your choice:");
+                goto CHOOSE;
+            }
+        BYID:
             Console.WriteLine("Input ID of order you want to check: ");
             string suspicious;
             suspicious = Console.ReadLine();
@@ -52,11 +65,25 @@ namespace Array_basics
             if (check == true)
             {
                 Console.WriteLine($"Order {suspicious} is suspicious!!!");
+                goto END;
             }
             else
+            {
                 Console.WriteLine($"Order {suspicious} is not suspicious!!!");
+                goto END;
+            }
+     
+        BYLETTER:
+            Console.WriteLine("Input the starting letter: \n");
+            string letter = Console.ReadLine();
+            foreach (string fraud in fraudulentOrderIDs)
+            {
+                if (fraud.StartsWith(letter))
+                    Console.WriteLine(fraud);
+            }
+        END:
             Console.ReadLine();
-    }
+        }
         private bool Check(string suspicious, string[] fraudulentOrderIDs)
         {
             foreach (string order in fraudulentOrderIDs)
