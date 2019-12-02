@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {
+      "Employee_title_switchcase/1.0.0": {
+        "runtime": {
+          "Employee_title_switchcase.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Employee_title_switchcase/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

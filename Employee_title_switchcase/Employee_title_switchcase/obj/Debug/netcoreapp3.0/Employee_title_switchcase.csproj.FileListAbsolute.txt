@@ -1,0 +1,10 @@
+C:\Users\Korisnik\Documents\GitHub\c#-tutorial\c-sharp-tutorials\Employee_title_switchcase\Employee_title_switchcase\bin\Debug\netcoreapp3.0\Employee_title_switchcase.exe
+C:\Users\Korisnik\Documents\GitHub\c#-tutorial\c-sharp-tutorials\Employee_title_switchcase\Employee_title_switchcase\bin\Debug\netcoreapp3.0\Employee_title_switchcase.deps.json
+C:\Users\Korisnik\Documents\GitHub\c#-tutorial\c-sharp-tutorials\Employee_title_switchcase\Employee_title_switchcase\bin\Debug\netcoreapp3.0\Employee_title_switchcase.runtimeconfig.json
+C:\Users\Korisnik\Documents\GitHub\c#-tutorial\c-sharp-tutorials\Employee_title_switchcase\Employee_title_switchcase\bin\Debug\netcoreapp3.0\Employee_title_switchcase.runtimeconfig.dev.json
+C:\Users\Korisnik\Documents\GitHub\c#-tutorial\c-sharp-tutorials\Employee_title_switchcase\Employee_title_switchcase\bin\Debug\netcoreapp3.0\Employee_title_switchcase.dll
+C:\Users\Korisnik\Documents\GitHub\c#-tutorial\c-sharp-tutorials\Employee_title_switchcase\Employee_title_switchcase\bin\Debug\netcoreapp3.0\Employee_title_switchcase.pdb
+C:\Users\Korisnik\Documents\GitHub\c#-tutorial\c-sharp-tutorials\Employee_title_switchcase\Employee_title_switchcase\obj\Debug\netcoreapp3.0\Employee_title_switchcase.AssemblyInfoInputs.cache
+C:\Users\Korisnik\Documents\GitHub\c#-tutorial\c-sharp-tutorials\Employee_title_switchcase\Employee_title_switchcase\obj\Debug\netcoreapp3.0\Employee_title_switchcase.AssemblyInfo.cs
+C:\Users\Korisnik\Documents\GitHub\c#-tutorial\c-sharp-tutorials\Employee_title_switchcase\Employee_title_switchcase\obj\Debug\netcoreapp3.0\Employee_title_switchcase.dll
+C:\Users\Korisnik\Documents\GitHub\c#-tutorial\c-sharp-tutorials\Employee_title_switchcase\Employee_title_switchcase\obj\Debug\netcoreapp3.0\Employee_title_switchcase.pdb
