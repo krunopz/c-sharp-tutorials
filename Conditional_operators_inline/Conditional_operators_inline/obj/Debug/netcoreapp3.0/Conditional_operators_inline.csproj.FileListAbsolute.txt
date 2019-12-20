@@ -1,0 +1,11 @@
+C:\Users\Korisnik\Documents\GitHub\c#-tutorial\c-sharp-tutorials\Conditional_operators_inline\Conditional_operators_inline\obj\Debug\netcoreapp3.0\Conditional_operators_inline.csprojAssemblyReference.cache
+C:\Users\Korisnik\Documents\GitHub\c#-tutorial\c-sharp-tutorials\Conditional_operators_inline\Conditional_operators_inline\obj\Debug\netcoreapp3.0\Conditional_operators_inline.AssemblyInfoInputs.cache
+C:\Users\Korisnik\Documents\GitHub\c#-tutorial\c-sharp-tutorials\Conditional_operators_inline\Conditional_operators_inline\obj\Debug\netcoreapp3.0\Conditional_operators_inline.AssemblyInfo.cs
+C:\Users\Korisnik\Documents\GitHub\c#-tutorial\c-sharp-tutorials\Conditional_operators_inline\Conditional_operators_inline\bin\Debug\netcoreapp3.0\Conditional_operators_inline.exe
+C:\Users\Korisnik\Documents\GitHub\c#-tutorial\c-sharp-tutorials\Conditional_operators_inline\Conditional_operators_inline\bin\Debug\netcoreapp3.0\Conditional_operators_inline.deps.json
+C:\Users\Korisnik\Documents\GitHub\c#-tutorial\c-sharp-tutorials\Conditional_operators_inline\Conditional_operators_inline\bin\Debug\netcoreapp3.0\Conditional_operators_inline.runtimeconfig.json
+C:\Users\Korisnik\Documents\GitHub\c#-tutorial\c-sharp-tutorials\Conditional_operators_inline\Conditional_operators_inline\bin\Debug\netcoreapp3.0\Conditional_operators_inline.runtimeconfig.dev.json
+C:\Users\Korisnik\Documents\GitHub\c#-tutorial\c-sharp-tutorials\Conditional_operators_inline\Conditional_operators_inline\bin\Debug\netcoreapp3.0\Conditional_operators_inline.dll
+C:\Users\Korisnik\Documents\GitHub\c#-tutorial\c-sharp-tutorials\Conditional_operators_inline\Conditional_operators_inline\bin\Debug\netcoreapp3.0\Conditional_operators_inline.pdb
+C:\Users\Korisnik\Documents\GitHub\c#-tutorial\c-sharp-tutorials\Conditional_operators_inline\Conditional_operators_inline\obj\Debug\netcoreapp3.0\Conditional_operators_inline.dll
+C:\Users\Korisnik\Documents\GitHub\c#-tutorial\c-sharp-tutorials\Conditional_operators_inline\Conditional_operators_inline\obj\Debug\netcoreapp3.0\Conditional_operators_inline.pdb
