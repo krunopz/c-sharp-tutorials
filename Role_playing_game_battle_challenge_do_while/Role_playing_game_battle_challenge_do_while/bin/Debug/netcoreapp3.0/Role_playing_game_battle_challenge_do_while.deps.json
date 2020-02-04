@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {
+      "Role_playing_game_battle_challenge_do_while/1.0.0": {
+        "runtime": {
+          "Role_playing_game_battle_challenge_do_while.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Role_playing_game_battle_challenge_do_while/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
