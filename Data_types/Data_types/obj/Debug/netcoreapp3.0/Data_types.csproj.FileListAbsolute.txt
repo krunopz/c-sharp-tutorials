@@ -1,0 +1,11 @@
+C:\Users\Korisnik\Documents\GitHub\c#-tutorial\c-sharp-tutorials\Data_types\Data_types\bin\Debug\netcoreapp3.0\Data_types.exe
+C:\Users\Korisnik\Documents\GitHub\c#-tutorial\c-sharp-tutorials\Data_types\Data_types\bin\Debug\netcoreapp3.0\Data_types.deps.json
+C:\Users\Korisnik\Documents\GitHub\c#-tutorial\c-sharp-tutorials\Data_types\Data_types\bin\Debug\netcoreapp3.0\Data_types.runtimeconfig.json
+C:\Users\Korisnik\Documents\GitHub\c#-tutorial\c-sharp-tutorials\Data_types\Data_types\bin\Debug\netcoreapp3.0\Data_types.runtimeconfig.dev.json
+C:\Users\Korisnik\Documents\GitHub\c#-tutorial\c-sharp-tutorials\Data_types\Data_types\bin\Debug\netcoreapp3.0\Data_types.dll
+C:\Users\Korisnik\Documents\GitHub\c#-tutorial\c-sharp-tutorials\Data_types\Data_types\bin\Debug\netcoreapp3.0\Data_types.pdb
+C:\Users\Korisnik\Documents\GitHub\c#-tutorial\c-sharp-tutorials\Data_types\Data_types\obj\Debug\netcoreapp3.0\Data_types.csprojAssemblyReference.cache
+C:\Users\Korisnik\Documents\GitHub\c#-tutorial\c-sharp-tutorials\Data_types\Data_types\obj\Debug\netcoreapp3.0\Data_types.AssemblyInfoInputs.cache
+C:\Users\Korisnik\Documents\GitHub\c#-tutorial\c-sharp-tutorials\Data_types\Data_types\obj\Debug\netcoreapp3.0\Data_types.AssemblyInfo.cs
+C:\Users\Korisnik\Documents\GitHub\c#-tutorial\c-sharp-tutorials\Data_types\Data_types\obj\Debug\netcoreapp3.0\Data_types.dll
+C:\Users\Korisnik\Documents\GitHub\c#-tutorial\c-sharp-tutorials\Data_types\Data_types\obj\Debug\netcoreapp3.0\Data_types.pdb
