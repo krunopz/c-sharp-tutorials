@@ -1,0 +1,11 @@
+C:\Users\Korisnik\Documents\GitHub\c#-tutorial\c-sharp-tutorials\ObjectLifeTime\ObjectLifeTime\bin\Debug\netcoreapp3.0\ObjectLifeTime.exe
+C:\Users\Korisnik\Documents\GitHub\c#-tutorial\c-sharp-tutorials\ObjectLifeTime\ObjectLifeTime\bin\Debug\netcoreapp3.0\ObjectLifeTime.deps.json
+C:\Users\Korisnik\Documents\GitHub\c#-tutorial\c-sharp-tutorials\ObjectLifeTime\ObjectLifeTime\bin\Debug\netcoreapp3.0\ObjectLifeTime.runtimeconfig.json
+C:\Users\Korisnik\Documents\GitHub\c#-tutorial\c-sharp-tutorials\ObjectLifeTime\ObjectLifeTime\bin\Debug\netcoreapp3.0\ObjectLifeTime.runtimeconfig.dev.json
+C:\Users\Korisnik\Documents\GitHub\c#-tutorial\c-sharp-tutorials\ObjectLifeTime\ObjectLifeTime\bin\Debug\netcoreapp3.0\ObjectLifeTime.dll
+C:\Users\Korisnik\Documents\GitHub\c#-tutorial\c-sharp-tutorials\ObjectLifeTime\ObjectLifeTime\bin\Debug\netcoreapp3.0\ObjectLifeTime.pdb
+C:\Users\Korisnik\Documents\GitHub\c#-tutorial\c-sharp-tutorials\ObjectLifeTime\ObjectLifeTime\obj\Debug\netcoreapp3.0\ObjectLifeTime.csprojAssemblyReference.cache
+C:\Users\Korisnik\Documents\GitHub\c#-tutorial\c-sharp-tutorials\ObjectLifeTime\ObjectLifeTime\obj\Debug\netcoreapp3.0\ObjectLifeTime.AssemblyInfoInputs.cache
+C:\Users\Korisnik\Documents\GitHub\c#-tutorial\c-sharp-tutorials\ObjectLifeTime\ObjectLifeTime\obj\Debug\netcoreapp3.0\ObjectLifeTime.AssemblyInfo.cs
+C:\Users\Korisnik\Documents\GitHub\c#-tutorial\c-sharp-tutorials\ObjectLifeTime\ObjectLifeTime\obj\Debug\netcoreapp3.0\ObjectLifeTime.dll
+C:\Users\Korisnik\Documents\GitHub\c#-tutorial\c-sharp-tutorials\ObjectLifeTime\ObjectLifeTime\obj\Debug\netcoreapp3.0\ObjectLifeTime.pdb
