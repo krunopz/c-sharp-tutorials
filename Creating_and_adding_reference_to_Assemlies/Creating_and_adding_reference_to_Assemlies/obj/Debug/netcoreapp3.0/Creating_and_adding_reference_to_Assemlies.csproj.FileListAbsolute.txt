@@ -1,0 +1,4 @@
+C:\Users\Korisnik\Documents\GitHub\c#-tutorial\c-sharp-tutorials\Creating_and_adding_reference_to_Assemlies\Creating_and_adding_reference_to_Assemlies\bin\Debug\netcoreapp3.0\Creating_and_adding_reference_to_Assemlies.exe
+C:\Users\Korisnik\Documents\GitHub\c#-tutorial\c-sharp-tutorials\Creating_and_adding_reference_to_Assemlies\Creating_and_adding_reference_to_Assemlies\obj\Debug\netcoreapp3.0\Creating_and_adding_reference_to_Assemlies.csprojAssemblyReference.cache
+C:\Users\Korisnik\Documents\GitHub\c#-tutorial\c-sharp-tutorials\Creating_and_adding_reference_to_Assemlies\Creating_and_adding_reference_to_Assemlies\obj\Debug\netcoreapp3.0\Creating_and_adding_reference_to_Assemlies.AssemblyInfoInputs.cache
+C:\Users\Korisnik\Documents\GitHub\c#-tutorial\c-sharp-tutorials\Creating_and_adding_reference_to_Assemlies\Creating_and_adding_reference_to_Assemlies\obj\Debug\netcoreapp3.0\Creating_and_adding_reference_to_Assemlies.AssemblyInfo.cs

@@ -1,0 +1,11 @@
+C:\Users\Korisnik\Documents\GitHub\c#-tutorial\c-sharp-tutorials\WorkingWithCollections\WorkingWithCollections\bin\Debug\netcoreapp3.0\WorkingWithCollections.exe
+C:\Users\Korisnik\Documents\GitHub\c#-tutorial\c-sharp-tutorials\WorkingWithCollections\WorkingWithCollections\obj\Debug\netcoreapp3.0\WorkingWithCollections.csprojAssemblyReference.cache
+C:\Users\Korisnik\Documents\GitHub\c#-tutorial\c-sharp-tutorials\WorkingWithCollections\WorkingWithCollections\obj\Debug\netcoreapp3.0\WorkingWithCollections.AssemblyInfoInputs.cache
+C:\Users\Korisnik\Documents\GitHub\c#-tutorial\c-sharp-tutorials\WorkingWithCollections\WorkingWithCollections\obj\Debug\netcoreapp3.0\WorkingWithCollections.AssemblyInfo.cs
+C:\Users\Korisnik\Documents\GitHub\c#-tutorial\c-sharp-tutorials\WorkingWithCollections\WorkingWithCollections\bin\Debug\netcoreapp3.0\WorkingWithCollections.deps.json
+C:\Users\Korisnik\Documents\GitHub\c#-tutorial\c-sharp-tutorials\WorkingWithCollections\WorkingWithCollections\bin\Debug\netcoreapp3.0\WorkingWithCollections.runtimeconfig.json
+C:\Users\Korisnik\Documents\GitHub\c#-tutorial\c-sharp-tutorials\WorkingWithCollections\WorkingWithCollections\bin\Debug\netcoreapp3.0\WorkingWithCollections.runtimeconfig.dev.json
+C:\Users\Korisnik\Documents\GitHub\c#-tutorial\c-sharp-tutorials\WorkingWithCollections\WorkingWithCollections\bin\Debug\netcoreapp3.0\WorkingWithCollections.dll
+C:\Users\Korisnik\Documents\GitHub\c#-tutorial\c-sharp-tutorials\WorkingWithCollections\WorkingWithCollections\bin\Debug\netcoreapp3.0\WorkingWithCollections.pdb
+C:\Users\Korisnik\Documents\GitHub\c#-tutorial\c-sharp-tutorials\WorkingWithCollections\WorkingWithCollections\obj\Debug\netcoreapp3.0\WorkingWithCollections.dll
+C:\Users\Korisnik\Documents\GitHub\c#-tutorial\c-sharp-tutorials\WorkingWithCollections\WorkingWithCollections\obj\Debug\netcoreapp3.0\WorkingWithCollections.pdb

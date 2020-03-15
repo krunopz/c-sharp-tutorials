@@ -31,6 +31,10 @@ namespace ObjectLifeTime
 
             Car myThirdCar = new Car("WV", "Polo", 2000, "black");
             Console.WriteLine($"My third car is {myThirdCar.Name},{myThirdCar.Model},{myThirdCar.Year} and it is {myThirdCar.Color} color\n");
+
+            Console.WriteLine("Or by using method inside of class: ");
+            myCarInfo(myCar);
+            myCarInfo(myOtherCar);
             Console.ReadLine();
         }
     }
@@ -59,8 +63,11 @@ namespace ObjectLifeTime
             Color = color;
 
         }
-       
 
+        public string carInfo()
+        {
+            string myCarInfo = Console.WriteLine($"Your info {Name},{Model},{Year},{Color}\n");
+        }
 
     }
 
