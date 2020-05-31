@@ -33,8 +33,8 @@ namespace ObjectLifeTime
             Console.WriteLine($"My third car is {myThirdCar.Name},{myThirdCar.Model},{myThirdCar.Year} and it is {myThirdCar.Color} color\n");
 
             Console.WriteLine("Or by using method inside of class: ");
-            myCarInfo(myCar);
-            myCarInfo(myOtherCar);
+            Car.carInfo(myCar);
+            Car.carInfo(myOtherCar);
             Console.ReadLine();
         }
     }
@@ -64,9 +64,10 @@ namespace ObjectLifeTime
 
         }
 
-        public string carInfo()
+        public void CarInfo(string myCarInfo)
         {
             string myCarInfo = Console.WriteLine($"Your info {Name},{Model},{Year},{Color}\n");
+            return myCarInfo;
         }
 
     }

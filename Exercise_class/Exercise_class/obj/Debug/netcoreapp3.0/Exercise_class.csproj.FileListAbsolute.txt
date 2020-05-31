@@ -1,0 +1,11 @@
+C:\Users\Korisnik\Documents\GitHub\c#-tutorial\c-sharp-tutorials\Exercise_class\Exercise_class\obj\Debug\netcoreapp3.0\Exercise_class.csprojAssemblyReference.cache
+C:\Users\Korisnik\Documents\GitHub\c#-tutorial\c-sharp-tutorials\Exercise_class\Exercise_class\obj\Debug\netcoreapp3.0\Exercise_class.AssemblyInfoInputs.cache
+C:\Users\Korisnik\Documents\GitHub\c#-tutorial\c-sharp-tutorials\Exercise_class\Exercise_class\obj\Debug\netcoreapp3.0\Exercise_class.AssemblyInfo.cs
+C:\Users\Korisnik\Documents\GitHub\c#-tutorial\c-sharp-tutorials\Exercise_class\Exercise_class\bin\Debug\netcoreapp3.0\Exercise_class.exe
+C:\Users\Korisnik\Documents\GitHub\c#-tutorial\c-sharp-tutorials\Exercise_class\Exercise_class\bin\Debug\netcoreapp3.0\Exercise_class.deps.json
+C:\Users\Korisnik\Documents\GitHub\c#-tutorial\c-sharp-tutorials\Exercise_class\Exercise_class\bin\Debug\netcoreapp3.0\Exercise_class.runtimeconfig.json
+C:\Users\Korisnik\Documents\GitHub\c#-tutorial\c-sharp-tutorials\Exercise_class\Exercise_class\bin\Debug\netcoreapp3.0\Exercise_class.runtimeconfig.dev.json
+C:\Users\Korisnik\Documents\GitHub\c#-tutorial\c-sharp-tutorials\Exercise_class\Exercise_class\bin\Debug\netcoreapp3.0\Exercise_class.dll
+C:\Users\Korisnik\Documents\GitHub\c#-tutorial\c-sharp-tutorials\Exercise_class\Exercise_class\bin\Debug\netcoreapp3.0\Exercise_class.pdb
+C:\Users\Korisnik\Documents\GitHub\c#-tutorial\c-sharp-tutorials\Exercise_class\Exercise_class\obj\Debug\netcoreapp3.0\Exercise_class.dll
+C:\Users\Korisnik\Documents\GitHub\c#-tutorial\c-sharp-tutorials\Exercise_class\Exercise_class\obj\Debug\netcoreapp3.0\Exercise_class.pdb
